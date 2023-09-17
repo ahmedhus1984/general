@@ -1,0 +1,3 @@
+#include <stdio.h>
+//need ankiheader
+#include "C:\Users\nasee\OneDrive\Documents\hussein\my_docs\my_studies\c\ankiheader.h"
